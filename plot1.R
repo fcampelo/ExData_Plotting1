@@ -32,7 +32,7 @@ with(data2,
      hist(Global_active_power,
           col=2,
           main="Global Active Power",
-          xlab="Global Active Power (kilowatts",
+          xlab="Global Active Power (kilowatts)",
           ylab="Frequency"
           )
      )
